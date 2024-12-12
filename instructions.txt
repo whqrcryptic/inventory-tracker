@@ -1,0 +1,6 @@
+Hey future me I am going to give you a step by step of what to do next!!
+
+http://localhost:8001  this is the link that take you to phpmyadmin (phpmyadmin)
+http://localhost:80      this is the link for the actual toolroom web app (php/apache)
+user and pass shared with mysql under the db.php tab
+Fixed all the docker issues including installing mysqli
