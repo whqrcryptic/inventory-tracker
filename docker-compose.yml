@@ -1,5 +1,5 @@
 version: '3'
-
+# this just tells you the services to run
 services:
   php:
     build:
